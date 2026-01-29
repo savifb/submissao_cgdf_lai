@@ -5,7 +5,7 @@
 
 ---
 
-### 📌 Classificação Clara:
+### 📌 Classificação:
 
 - **Classe 0 = PÚBLICO**: Pedido NÃO contém dados pessoais
 - **Classe 1 = NÃO PÚBLICO**: Pedido CONTÉM dados pessoais
@@ -38,7 +38,7 @@ submissao_cgdf_lai/
         └── LEIA-ME_OUTPUT.txt           # Explicação dos resultados
 ```
 
-### 🎯 Organização Clara (Critério 3c)
+### 🎯 Organização (Critério 3c)
 
 **Por que esta estrutura?**
 
