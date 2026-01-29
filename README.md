@@ -16,6 +16,17 @@ e que, portanto, deveriam ser classificados como não públicos.
 
 ## 📁 Estrutura de Pastas do Projeto
 
+### ⚠️ Observação Importante para Execução
+
+Todos os comandos descritos neste documento devem ser executados **no diretório raiz
+do projeto**, denominado:
+
+submissao_cgdf_lai/
+
+Esse diretório é aquele obtido após a extração do arquivo compactado da solução e
+contém os arquivos `README.md`, `requirements.txt` e as pastas `src/`, `models/` e
+`data/`.
+
 O projeto está organizado da seguinte forma:
 ```
 submissao_cgdf_lai/
