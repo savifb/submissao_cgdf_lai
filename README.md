@@ -184,7 +184,8 @@ Se preferir usar outros caminhos:
 python src/predicao_submissao.py C:\Downloads\teste.xlsx resultado.xlsx
 ```
 
-O script é flexível e aceita qualquer caminho válido para entregar os resultados.
+O script é flexível e aceita qualquer caminho válido para localizar o arquivo de teste.
+
 
 ---
 
