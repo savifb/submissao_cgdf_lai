@@ -33,9 +33,9 @@ submissao_cgdf_lai/
 │
 └── 📂 data/                              # Diretório para dados
     ├── input/                            # Arquivos de entrada (teste)
-    │   └── LEIA-ME_INPUT.txt            # Instruções para avaliadores
+    │   └── instrucoesDadosTeste.txt            # Instruções para avaliadores
     └── output/                           # Resultados das predições
-        └── LEIA-ME_OUTPUT.txt           # Explicação dos resultados
+        └── InstrucoesDadosResultados.txt           # Explicação dos resultados
 ```
 
 ### 🎯 Organização (Critério 3c)
@@ -222,7 +222,7 @@ O script é flexível e aceita qualquer caminho válido para entregar os resulta
 
 | Coluna | Tipo | Descrição | Exemplo |
 |--------|------|-----------|---------|
-| `ID` | int/str | Identificador do pedido (copiado da entrada ou gerado) | 1, 2, 3... |
+| `ID` | int | Identificador do pedido (copiado da entrada ou gerado) | 1, 2, 3... |
 | `Texto Mascarado` | string | Texto original do pedido (copiado para facilitar verificação) | "Solicito informações..." |
 | `Classificação` | **int** | **0** = PÚBLICO (não contém dados pessoais)<br>**1** = NÃO PÚBLICO (contém dados pessoais) | 0 ou 1 |
 | `Status` | string | Classificação textual:<br>**"PÚBLICO"** ou **"NÃO PÚBLICO"** | PÚBLICO |
